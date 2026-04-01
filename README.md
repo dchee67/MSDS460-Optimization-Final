@@ -1,4 +1,3 @@
-# MSDS460-Optimization-Final
 # MSDS460 Final Project
 ## Optimization
 ### By Kurt Bouska and Daniel Chee
